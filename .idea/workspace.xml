@@ -38,13 +38,13 @@
       <file leaf-file-name="Rand_num.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/rand/Rand_num.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.57831323">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.31325302">
+              <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
               <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -691,12 +691,12 @@
       <created>1435628141513</created>
       <option name="number" value="Default" />
       <updated>1435628141513</updated>
-      <workItem from="1435628142769" duration="1093000" />
+      <workItem from="1435628142769" duration="1696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1093000" />
+    <option name="totallyTimeSpent" value="1696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="51" width="1200" height="753" extended-state="0" />
@@ -751,13 +751,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/rand/Rand_num.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57831323">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.31325302">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
           <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#481#482#0" expanded="true" />
           </folding>
         </state>
       </provider>

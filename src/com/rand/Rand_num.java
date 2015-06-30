@@ -4,12 +4,22 @@ package com.rand;
  */
 public class Rand_num {
 	private long value;
+	private float seed;
 
 	/**
 	 * Default constructor
 	 */
 	public Rand_num() {
 		this.value = 0;
+		this.seed = 0;
+	}
+
+	/**
+	 * Secondary constructor to accept in seed for random number
+	 * @param seed
+	 */
+	public Rand_num(float seed) {
+		this.seed = seed;
 	}
 
 	/**
